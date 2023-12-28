@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/ImtiyazKhan1/ImtiyazKhan1/blob/main/Make%20your%20README.png)
 
-### Hi there 👋, Imtiyaz Khan
+# Hi there 👋, I'm Imtiyaz Khan
 #### Asipring Software Developer
 
 
