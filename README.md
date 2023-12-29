@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Imtiyaz Khan
 #### Asipring Software Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiyazKhan1&show_icons=true&theme=radical)
 
 --- Skills: VUE JS / REACT / JS / HTML / CSS
 
