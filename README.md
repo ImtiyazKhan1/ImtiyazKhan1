@@ -5,9 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiyazKhan1&show_icons=true&theme=radical)
 
---- Skills: VUE JS / REACT / JS / HTML / CSS
+<!--Text--> Skills: VUE JS / REACT / JS / HTML / CSS
 
---- 🔭 I’m currently working on this page. 
+<!--Text--> 🔭 I’m currently working on this page. 
 
 
 
