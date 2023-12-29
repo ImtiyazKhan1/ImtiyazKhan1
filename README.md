@@ -7,7 +7,7 @@
 
 <!--Text--> Skills: VUE JS / REACT / JS / HTML / CSS
 
-<!--Text--> 🔭 I’m currently working on this page. 
+<!--I’m currently working on this page. --> 🔭 
 
 
 
