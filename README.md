@@ -8,6 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiyazKhan1)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Work 🧑🏽‍💻
+![Design and Development](https://github.com/ImtiyazKhan1/ImtiyazKhan1/blob/main/YouthCode.gif)
 <!-- Skills: VUE JS / REACT / JS / HTML / CSS--> 
 
 <!--I’m currently working on this page. --> 
